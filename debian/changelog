@@ -1,3 +1,9 @@
+wb-mqtt-serial (2.75.1) stable; urgency=medium
+
+  * make proper multi-arch build
+
+ -- Nikita Maslov <nikita.maslov@wirenboard.ru>  Tue, 15 Nov 2022 16:45:02 +0600
+
 wb-mqtt-serial (2.75.0) stable; urgency=medium
 
   * Support for setting Somfy curtain motor parameters
