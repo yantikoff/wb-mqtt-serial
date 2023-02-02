@@ -191,7 +191,7 @@
                 "format": "u32",
                 "scale": 1.52588e-7,
                 "round_to": 0.001,
-                "group": "l2"
+                "group": "l3"
             },
             {
                 "name": "THD U L3",
